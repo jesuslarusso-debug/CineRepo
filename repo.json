@@ -1,0 +1,7 @@
+{
+  "name": "CineRepo",
+  "description": "Mis plugins",
+  "icon": "https://via.placeholder.com/150",
+  "manifestVersion": 1,
+  "plugins": "https://raw.githubusercontent.com/Stormunblessed/cloudstream-3/refs/heads/master/providers.json"
+}
