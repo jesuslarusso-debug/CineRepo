@@ -1,9 +1,9 @@
 {
   "name": "CineRepo",
-  "description": "Mis plugins",
-  "iconUrl": "https://via.placeholder.com/150",
+  "description": "A Storm-ext forueye.",
+  "iconUrl": "https://raw.githubusercontent.com/redblacker8/storm-ext/master/assets/repoIcon.jpg",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://raw.githubusercontent.com/Stormunblessed/cloudstream-3/refs/heads/master/providers.json"
+    "https://raw.githubusercontent.com/jesuslarusso-debug/CineRepo/refs/heads/main/repo.json"
   ]
 }
